@@ -1,0 +1,20 @@
+{
+    "usuarios":[
+        {
+            "id":1,
+            "apellido_paterno":"Castañeda",
+            "apellido_materno":"Osornio",
+            "nombre":"Jose Luis",
+            "username":"jl_castaneda",
+            "passwprd":"202cb962ac59075b964b07152d234b70"
+        },
+        {
+            "id":2,
+            "apellido_paterno":"Osornio",
+            "apellido_materno":"Lima",
+            "nombre":"Jonatham",
+            "username":"j_jona",
+            "passwprd":"202cb962ac59075b964b07152d234b70"
+        }
+    ]
+}
